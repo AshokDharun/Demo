@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 public class StringConverts
 
 {
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 	
 String str="abcdi efigh injd cie";
